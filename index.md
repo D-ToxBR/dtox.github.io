@@ -1,5 +1,5 @@
 
-## Qual propósito da D-Tox?
+## Jogar é Bom. Jogar com Parceiros Amigáveis é muito Melhor!
 
 ### Jogar é Maravilhoso
 Nada melhor que relaxar nos jogos após um dia turbulento
@@ -16,3 +16,6 @@ Já uma pessoa aleatória conectada conosco pelo match-making, provavelmente nun
 Se ela for desagradável, o máximo que poderemos fazer é usar o sistema de denúncias do jogo contra ela.
 Mas do que isso adiantará? Ela levará apenas alguns minutos para criar uma nova conta, e continuará se comportando da mesma forma.
 Como a conta é anônima, o comportamento do jogador não vai afetar sua reputação na vida real, e nem mesmo no jogo.
+
+## O que é a D-Tox e qual a Nossa Missão?
+
