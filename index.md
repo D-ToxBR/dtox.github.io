@@ -33,3 +33,14 @@ Além disso, pretendemos futuramente contatar agências de emprego e instituiç�
 Afinal, jogadores que são amigáveis e trabalham bem em equipe nos jogos, podem levar essas habilidades para o ambiente de trabalho ou acadêmicos. Bons líderes dentro dos jogos, podem ser bons líderes na vida. E nós queremos certificar essas habilidades.
 
 
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
