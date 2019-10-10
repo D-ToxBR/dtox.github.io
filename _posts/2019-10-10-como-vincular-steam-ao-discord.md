@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Como Vincular sua Conta Steam ao Discord"
+categories: [tutoriais]
+tags: [steam, discord, vincular, link, cadastro]
+---
+
+
 # Como Vincular sua Conta Steam ao Discord
 
 Para participar da comunidade de CS:GO da D-Tox, e conseguir formar partidas os companheiros da comunidade, sua conta Steam precisa estar vinculada ao seu Discord.
