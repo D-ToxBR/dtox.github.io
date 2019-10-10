@@ -1,5 +1,7 @@
-# Você encontrará em Breve aqui informações sobre o D-Tox
-## Projeto para Criar uma comunidade de Jogos Online livre de Toxidade!
+## Qual propósito da D-Tox?
 
-1231231
-123213
+### Jogar é Maravilhoso
+Nada melhor que relaxar nos jogos após um dia turbulento
+
+###  Jogadores tóxicos Destroem nossas Partidas
+Mas quando nossa partida está repleta de trapaceiros e pessoas nos xingando, o jogo se torna a pior parte do dia
