@@ -43,7 +43,3 @@ Afinal, jogadores que são amigáveis e trabalham bem em equipe nos jogos, podem
   {% endfor %}
 </ul>
 
-
-
-test
-
