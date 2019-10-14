@@ -29,3 +29,5 @@ O procedimento é feito no Discord:
 ![Precisamos que sua conta Steam seja exibida em seu perfil. Portanto, verifique se sua vinculação com a Steam ficou exatamente como na imagem](https://lh3.googleusercontent.com/Fhl9v0j6AqSt3uHKiYES6oMZ02fot7xHrUyh2xi5GtxCnbz9h1BnJhgCpYZf3Bo0wumRAmlEGnMe3g)
 
 #### Parabéns, seu Discord está vinculado a Steam, e agora você pode se juntar com companheiros da comunidade D-Tox para jogar CS:GO =)
+
+tst
