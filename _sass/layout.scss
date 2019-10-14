@@ -248,5 +248,12 @@ section {
 
 .topic{
 	padding: 2em;
-	background-color: #00FF00
+	background-color: #00FF00;
+	top: 0px;
+}
+
+.topic h3 {
+	font-size: 1.8rem;
+	margin: 0 0 20px 0;
+	color: $brand-color;
 }
