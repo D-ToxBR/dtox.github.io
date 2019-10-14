@@ -18,7 +18,6 @@ O procedimento é feito no Discord:
 ![Clique no Ícone da Engrenagem (Configurações de Usuário)](https://lh3.googleusercontent.com/cNh1fdMBs1PueraJovOX_W7edkaOVzDOCFwQmIg4xlkiaCfuC53YKBFYraTxshbVutDwl4yjDfC3mA)
 
 3. Clique em **Conexões**
-
 ![Clique em **Conexões**](https://lh3.googleusercontent.com/amLH4fia-dZpoo1RaKjYXuI0cdEjIXvzSPm-f8LSm4SoXGYgqK4Pn5jaOeGbSfTA2x2wJQ_41F-2CQ)
 
 5. Clique na **Logomarca da Steam**
