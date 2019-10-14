@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title:  "Como Vincular sua Conta Steam ao Discord"
@@ -14,7 +15,7 @@ O procedimento é feito no Discord:
 
 1. Entre no Discord (fazendo login com sua conta)
 
-2.  Clique no **Ícone da Engrenagem** (Configurações de Usuário)
+2.  Clique no **Ícone da Engrenagem** (Configurações de Usuário)<br>
 ![Clique no Ícone da Engrenagem (Configurações de Usuário)](https://lh3.googleusercontent.com/cNh1fdMBs1PueraJovOX_W7edkaOVzDOCFwQmIg4xlkiaCfuC53YKBFYraTxshbVutDwl4yjDfC3mA)
 
 3. Clique em **Conexões**<br>![Clique em **Conexões**](https://lh3.googleusercontent.com/amLH4fia-dZpoo1RaKjYXuI0cdEjIXvzSPm-f8LSm4SoXGYgqK4Pn5jaOeGbSfTA2x2wJQ_41F-2CQ)
@@ -28,3 +29,5 @@ O procedimento é feito no Discord:
 ![Precisamos que sua conta Steam seja exibida em seu perfil. Portanto, verifique se sua vinculação com a Steam ficou exatamente como na imagem](https://lh3.googleusercontent.com/Fhl9v0j6AqSt3uHKiYES6oMZ02fot7xHrUyh2xi5GtxCnbz9h1BnJhgCpYZf3Bo0wumRAmlEGnMe3g)
 
 #### Parabéns, seu Discord está vinculado a Steam, e agora você pode se juntar com companheiros da comunidade D-Tox para jogar CS:GO =)
+
+done
