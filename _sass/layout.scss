@@ -251,10 +251,24 @@ section {
 	display: block !important;
 }
 
+
 .topics div{
 	margin: 2em;
-	min-width: 30%;
+	min-width: 100%;
 }
+
+@media all and (min-width: 40em) {
+  .topics div {
+    width: 50%;
+  }
+}
+@media all and (min-width: 60em) {
+  .topics div {
+    width: 33.33%;
+  }
+}
+
+
 
 .topics div h3 {
 	font-size: 1.8rem;
