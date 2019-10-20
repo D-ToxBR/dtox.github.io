@@ -3,6 +3,7 @@ layout: post
 title:  "Como Vincular sua Conta Steam ao Discord"
 categories: [tutoriais]
 tags: [steam, discord, vincular, link, cadastro]
+permalink: /tutoriais/vincular-discord-steam
 ---
 
 
