@@ -34,6 +34,9 @@ header {
 
 	.company-name {
 		font-size: 1.7em;
+	}
+
+	.company-name img {
 		margin-top: -20px;
 	}
 }
@@ -95,7 +98,7 @@ section {
 		}
 
 		a:not(.button) {
-			color: #ffffff;
+			color: #13a1c7;
 			font-style: italic;
 		}
 	}

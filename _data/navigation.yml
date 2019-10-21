@@ -1,9 +1,13 @@
 links:
-- name: Portfolio
-  link: /portfolio/
-- name: Blog
-  link: /blog/
-- name: About
-  link: /about/
-- name: Contact
-  link: /contact/
+- name: Nossa Solução
+  link: \#solucao
+- name: Como Funcionamos
+  link: \#funcionamento
+- name: Participar
+  link: \#participar
+- name: Regras
+  link: /regras/
+  highlight: highlight
+- name: Cadastro
+  link: https://docs.google.com/forms/d/1zuG6kiTM1AIwImjqjqtep6XIo2HuFSarcpyDscyxC_8/edit
+  highlight: highlight
