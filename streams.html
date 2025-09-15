@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D-Tox Streams - Redirecionando...</title>
+    
+    <!-- Meta redirect as fallback -->
+    <meta http-equiv="refresh" content="0; url=https://www.youtube.com/@CoinBR/streams">
+    
+    <style>
+        * {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: linear-gradient(135deg, #161a1f 0%, #1a1e24 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+        }
+
+        .redirect-container {
+            text-align: center;
+            max-width: 400px;
+            padding: 2rem;
+        }
+
+        .redirect-title {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: #4A90E2;
+        }
+
+        .redirect-message {
+            font-size: 1rem;
+            margin-bottom: 2rem;
+            color: #a8b3c1;
+        }
+
+        .fallback-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: linear-gradient(135deg, #4A90E2, #357ABD);
+            color: #ffffff;
+            font-weight: 600;
+            padding: 0.75rem 1.25rem;
+            border-radius: 0.625rem;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            border-bottom: 3px solid #2c5f8a;
+        }
+
+        .fallback-link:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(74, 144, 226, 0.4);
+        }
+
+        .loading-spinner {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 2px solid #4A90E2;
+            border-radius: 50%;
+            border-top-color: transparent;
+            animation: spin 1s linear infinite;
+            margin-right: 0.5rem;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="redirect-container">
+        <h1 class="redirect-title">🎮 D-Tox Streams</h1>
+        <p class="redirect-message">
+            <span class="loading-spinner"></span>
+            Redirecionando para a stream de Coin...
+        </p>
+        <a href="https://www.youtube.com/@CoinBR/streams" class="fallback-link">
+            <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"/>
+                <polygon points="9.75,15.02 15.5,11.75 9.75,8.48"/>
+            </svg>
+            Ir para YouTube
+        </a>
+    </div>
+
+    <script>
+        // Immediate JavaScript redirect
+        window.location.href = 'https://www.youtube.com/@CoinBR/streams';
+    </script>
+</body>
+</html>
+
